@@ -446,7 +446,7 @@ This project is created for educational purposes as part of a data engineering t
 For questions, suggestions, or issues:
 - Open an issue on GitHub
 - Fork and submit pull requests
-- Contact: [Your GitHub Profile](https://github.com/gowthusaidatta)
+- Contact: [Click here](https://github.com/gowthusaidatta)
 
 ---
 
@@ -462,4 +462,5 @@ This project successfully implements a **production-quality educational columnar
 **All core requirements are met**, with complete documentation, working code, and validation tools.
 
 **Ready for submission! 🚀**
+
 
