@@ -1,5 +1,8 @@
 __pycache__/
 *.pyc
 *.colf
-back.csv
-out.colf
+test*.csv
+test*.colf
+test_roundtrip.py
+COMPLETION_CHECKLIST.md
+.vscode/
